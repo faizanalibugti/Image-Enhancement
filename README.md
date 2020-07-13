@@ -7,13 +7,17 @@ Implemented using pywin32 library for screen capture
 
 To test pywin32 is working run **python pywintest.py**
 
-# Gamma Correction Only:
+# Adaptive Gamma Correction Only:
 
 **python gammaonly.py**
 
 # Equalize Histogram only:
 
 **python equalizeh.py**
+
+# Adaptive Equalize Histogram only:
+
+**python adaptiveequalizeh.py**
 
 # Gamma Correction & Equalized Histogram COMBINED:
 
